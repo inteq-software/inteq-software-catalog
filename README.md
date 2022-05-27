@@ -7,6 +7,7 @@
 - [pytential](https://github.com/inducer/pytential/)
 - [bem2d](https://github.com/tbetcke/bem2d)
 - [bempp-cl](https://bempp.com/)
+- [Rusty fast solvers](https://github.com/rusty-fast-solvers)
 
 ## Volume Potential Evaluators
 
@@ -24,7 +25,7 @@
 
 ### Translation Operators
 - [sumpy](https://github.com/inducer/sumpy)
-- 
+
 ## Fast Solvers for Integral Equations
 
 ## Fast Solvers for PDE Discretizations
