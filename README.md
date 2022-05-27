@@ -2,7 +2,7 @@
 
 ## Layer Potential Evaluators
 
-- [FMM3DBEI](https://github.com/fastalgorithms/fmm3dbie)
+- [FMM3DBIE](https://github.com/fastalgorithms/fmm3dbie)
 
 ## Volume Potential Evaluators
 
