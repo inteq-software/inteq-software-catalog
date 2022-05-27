@@ -20,6 +20,7 @@
 - [FMMLIB2D](https://github.com/zgimbutas/fmmlib2d)
 - [PVFMM](https://github.com/dmalhotra/pvfmm)
 - [boxtree](https://github.com/inducer/boxtree/) + [sumpy](https://github.com/inducer/sumpy)
+- [KIFMM](http://www.harperlangston.com/kifmm3d/documentation/index.html)
 
 ### Translation Operators
 - [sumpy](https://github.com/inducer/sumpy)
