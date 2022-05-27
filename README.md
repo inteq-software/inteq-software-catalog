@@ -4,6 +4,9 @@
 
 - [FMM3DBIE](https://github.com/fastalgorithms/fmm3dbie)
 - [Chunkie](https://github.com/fastalgorithms/chunkie)
+- [pytential](https://github.com/inducer/pytential/)
+- [bem2d](https://github.com/tbetcke/bem2d)
+- [bempp-cl](https://bempp.com/)
 
 ## Volume Potential Evaluators
 
@@ -16,9 +19,11 @@
 - [FMMLIB3D](https://github.com/zgimbutas/fmmlib3d)
 - [FMMLIB2D](https://github.com/zgimbutas/fmmlib2d)
 - [PVFMM](https://github.com/dmalhotra/pvfmm)
+- [boxtree](https://github.com/inducer/boxtree/) + [sumpy](https://github.com/inducer/sumpy)
 
 ### Translation Operators
-
+- [sumpy](https://github.com/inducer/sumpy)
+- 
 ## Fast Solvers for Integral Equations
 
 ## Fast Solvers for PDE Discretizations
