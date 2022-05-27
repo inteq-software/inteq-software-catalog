@@ -2,8 +2,8 @@
 
 ## Layer Potential Evaluators
 
-- [FMM3DBIE](https://github.com/fastalgorithms/fmm3dbie)
-- [Chunkie](https://github.com/fastalgorithms/chunkie)
+- [fmm3dbie](https://github.com/fastalgorithms/fmm3dbie)
+- [chunkie](https://github.com/fastalgorithms/chunkie)
 - [pytential](https://github.com/inducer/pytential/)
 - [bem2d](https://github.com/tbetcke/bem2d)
 - [bempp-cl](https://bempp.com/)
@@ -16,19 +16,24 @@
 ## Fast Multipole Methods
 
 - [FMM3D](https://github.com/flatironinstitute/FMM3D)
-- [FMM2d](https://github.com/askhamwhat/fmm2d)
+- [fmm2d](https://github.com/flatironinstitute/fmm2d)
 - [FMMLIB3D](https://github.com/zgimbutas/fmmlib3d)
 - [FMMLIB2D](https://github.com/zgimbutas/fmmlib2d)
 - [PVFMM](https://github.com/dmalhotra/pvfmm)
 - [boxtree](https://github.com/inducer/boxtree/) + [sumpy](https://github.com/inducer/sumpy)
 - [KIFMM](http://www.harperlangston.com/kifmm3d/documentation/index.html)
+- [H2Pack](https://github.com/scalable-matrix/H2Pack)
+- [exafmm-t](https://github.com/exafmm/exafmm-t)
 
 ### Translation Operators
 - [sumpy](https://github.com/inducer/sumpy)
 
 ## Fast Solvers for Integral Equations
+- [FLAM](https://github.com/klho/FLAM): Fast linear algebra methods
 
 ## Fast Solvers for PDE Discretizations
+- [ultraSEM](https://github.com/danfortunato/ultraSEM)
+- [surface-hps](https://github.com/danfortunato/surface-hps)
 
 ## Discretizations
 
