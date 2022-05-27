@@ -33,3 +33,5 @@
 - [meshmode](https://github.com/inducer/meshmode)
 
 ## Infrastructure
+
+- [conda forge](https://conda-forge.org/) (A community package manager)
