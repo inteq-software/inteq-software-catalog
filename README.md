@@ -35,6 +35,11 @@
 - [ultraSEM](https://github.com/danfortunato/ultraSEM)
 - [surface-hps](https://github.com/danfortunato/surface-hps)
 
+## Mesh cleaning and surface smoothing
+- [triwild](https://github.com/wildmeshing/TriWild)
+- [tetwild](https://github.com/Yixin-Hu/TetWild)
+- [surface-smoother](https://github.com/fastalgorithms/smooth-surface/)
+
 ## Discretizations
 
 - [meshmode](https://github.com/inducer/meshmode)
