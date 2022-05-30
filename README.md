@@ -40,6 +40,8 @@
 - [tetwild](https://github.com/Yixin-Hu/TetWild)
 - [surface-smoother](https://github.com/fastalgorithms/smooth-surface/)
 
+See also https://github.com/nschloe/awesome-scientific-computing/#meshing=
+
 ## Discretizations
 
 - [meshmode](https://github.com/inducer/meshmode)
