@@ -28,10 +28,14 @@
 ### Translation Operators
 - [sumpy](https://github.com/inducer/sumpy)
 
-## Fast Solvers for Integral Equations
+## Linear Algebra
+
+See also: [Awesome Hierarchical Marices](https://github.com/gchavez2/awesome_hierarchical_matrices), a list by Gustavo Chavez
+
+### Fast Solvers for Integral Equations
 - [FLAM](https://github.com/klho/FLAM): Fast linear algebra methods
 
-## Fast Solvers for PDE Discretizations
+### Fast Solvers for PDE Discretizations
 - [ultraSEM](https://github.com/danfortunato/ultraSEM)
 - [surface-hps](https://github.com/danfortunato/surface-hps)
 
