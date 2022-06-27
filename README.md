@@ -24,6 +24,7 @@
 - [KIFMM](http://www.harperlangston.com/kifmm3d/documentation/index.html)
 - [H2Pack](https://github.com/scalable-matrix/H2Pack)
 - [exafmm-t](https://github.com/exafmm/exafmm-t)
+- [boxcodes3d](https://github.com/flatironinstitute/boxcodes3d)
 
 ### Translation Operators
 - [sumpy](https://github.com/inducer/sumpy)
